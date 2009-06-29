@@ -1,5 +1,5 @@
 category: Database Tcl
-requires: cygwin tcl libdb4.5
+requires: tcl libdb4.5
 external-source: db4.5
 sdesc: "Berkeley DB 4.5 (Tcl interface)"
 ldesc: "Oracle Berkeley DB is the industry-leading open source, embeddable
